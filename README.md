@@ -51,50 +51,50 @@ All presented in a visually striking, narrative-driven format designed to keep t
 
 ## ⚙️ Method
 
-### Planning
+#### Planning
 - Experimented with ArcGIS StoryMap’s features to understand its layout options, mapping tools, and visual capabilities.
 - Identified limitations in design flexibility—especially with aesthetics, collage formatting, and magazine-style layouts.
 - Decided to integrate Canva to create cohesive, visually polished graphics that match a fashion-magazine theme.
 - Finalized the project structure and chose to include the following key features:
 
-### Era-Based Venue Snapshots
+#### Era-Based Venue Snapshots
 - Researched each era/date and identified the most prominent NYFW venues.
 - Collected general background information about each location.
 - Gathered press photos and archival visuals for accuracy and context.
 - Created visual collages using Canva to maintain a fashion-magazine aesthetic.
 - Imported the collages into ArcGIS using the Sidecar feature and formatted each section with Split Screen for clear/interactive storytelling.
 
-### Contextual Explanations
+#### Contextual Explanations
 - Researched economic conditions, cultural shifts, and major events influencing venue changes for each era.
 - Condensed findings into brief, accessible explanations.
 - Sourced relevant photographs supporting the context.
 - Combined text and visuals in Canva to create cohesive story panels.
 - Added these panels to the second page of each Sidecar section.
 
-### Interactive Mapping
+#### Interactive Mapping
 - Added a map to the third page of each Sidecar section.
 - Plotted each researched venue with precise addresses.
 - Ensured all elements aligned with the project’s fashion-magazine theme.
 
-### Cumulative Venue Overview
+#### Cumulative Venue Overview
 - Used the Map Tour feature in ArcGIS to compile all major venues across eras.
 - Input each location with its corresponding address, description, and visual.
 
 ### 🎨 Extra Feature: Design & Visuals
 
-### Video Collage of Runway Shows
+#### Video Collage of Runway Shows
 - Researched and saved relevant runway videos from YouTube.
 - Edited, shortened, and collaged them using CapCut.
 - Inserted the final video into ArcGIS via the Video tool.
 
-### Conclusion Panel
+#### Conclusion Panel
 - Designed the concluding image in Canva.
 - Uploaded it into ArcGIS using the Image Gallery in Filmstrip format.
 
-### Photo Collage
+#### Photo Collage
 - Used pre-downloaded project images to create a final collage.
 - Inserted them through the ArcGIS Image Gallery in Jigsaw format.
 
-## Final report
+## 🌟 Final report
 
 Final report, Report.docx, can be downloaded about|
