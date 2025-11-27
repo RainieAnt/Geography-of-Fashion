@@ -2,19 +2,53 @@
 
 > Short one-line description or tagline for your project.
 
-## ✅ About
+## 🗺️ Introduction
+This is a digital geography and storytelling project designed to map, analyze, and visually narrate the evolution of New York Fashion Week (NYFW) across the city. Built with ArcGIS StoryMap and GitHub for project documentation, it provides an interactive, visually engaging exploration of how fashion and urban geography intersect.
 
-Briefly describe what the project does and who it's for.
+The geography of these runways mirrors New York’s own evolution: from Manhattan’s iconic avenues to Brooklyn’s rising creative districts, each venue reflects shifting cultural, economic, and urban landscapes.
 
-Example:
-This is a [type of project] designed to [solve a problem / perform a function]. Built with [language/framework/tools used], it provides [feature list or core value].
+This project traces NYFW’s spatial journey through time, visualizing how runway locations move with the city’s changing identity, economic pressures, and cultural shifts. Through interactive maps, curated timelines, and narrative analysis, the StoryMap reveals how New York’s fashion landscape literally reshaped itself across decades.
 
-## ✅ Features
+## 🎯 Project Goals
+- Visualize the Evolution of NYFW
 
-- ✅ Feature 1
-- ✅ Feature 2
-- ✅ Feature 3
-- ✅ Planned: Feature 4
+- Connect Fashion to Urban Geography
+
+- Highlight Cultural and Economic Context
+
+- Tell a Cohesive Story Through Mapping
+
+- Show Fashion as a Reflection of Geography
+
+## ⚠️ Limitations 
+
+- Dataset includes only major, well-documented NYFW shows.
+
+- Independent and emerging designers are excluded due to limited public data.
+
+- Map reflects the documented core of NYFW, not its full decentralized network.
+
+These limitations sharpen the focus and highlight NYFW’s major geographic arcs and evolution across the city.
+
+## ⭐️ Features
+
+- Era-based venue snapshots
+
+      Each time period includes its most prominent NYFW venues.
+
+- Contextual explanations
+
+      A concise analysis of why specific venues were chosen (e.g., accessibility, industry shifts, cultural trends).
+
+- Interactive mapping
+
+      ArcGIS StoryMap visually plots each venue’s location with historical and contextual data.
+
+- Cumulative venue overview
+
+      A final combined map showing the major NYFW hubs across all documented eras.
+
+All presented in a visually striking, narrative-driven format designed to keep the project both engaging and informative.
 
 ## Method
 
