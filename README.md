@@ -49,7 +49,7 @@ These limitations sharpen the focus and highlight NYFW’s major geographic arcs
 
 All presented in a visually striking, narrative-driven format designed to keep the project both engaging and informative.
 
-## Method
+## ⚙️ Method
 
 ### Planning
 - Experimented with ArcGIS StoryMap’s features to understand its layout options, mapping tools, and visual capabilities.
@@ -80,7 +80,7 @@ All presented in a visually striking, narrative-driven format designed to keep t
 - Used the Map Tour feature in ArcGIS to compile all major venues across eras.
 - Input each location with its corresponding address, description, and visual.
 
-### Extra Feature: Design & Visuals
+### 🎨 Extra Feature: Design & Visuals
 
 ### Video Collage of Runway Shows
 - Researched and saved relevant runway videos from YouTube.
