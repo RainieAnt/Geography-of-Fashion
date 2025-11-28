@@ -97,4 +97,6 @@ All presented in a visually striking, narrative-driven format designed to keep t
 
 ## 🌟 Final report
 
-Final report, Report.docx, can be downloaded here:
+Story Map Link:
+Presentation Slide Deck: 
+
