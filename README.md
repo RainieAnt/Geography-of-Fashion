@@ -33,19 +33,19 @@ These limitations sharpen the focus and highlight NYFW’s major geographic arcs
 
 - Era-based venue snapshots
 
-> Each time period includes its most prominent NYFW venues.
+  - Each time period includes its most prominent NYFW venues.
 
 - Contextual explanations
 
-> A concise analysis of why specific venues were chosen (e.g., accessibility, industry shifts, cultural trends).
+  - A concise analysis of why specific venues were chosen (e.g., accessibility, industry shifts, cultural trends).
 
 - Interactive mapping
 
-> ArcGIS StoryMap visually plots each venue’s location with historical and contextual data.
+  - ArcGIS StoryMap visually plots each venue’s location with historical and contextual data.
 
 - Cumulative venue overview
 
-> A final combined map showing the major NYFW hubs across all documented eras.
+  - A final combined map showing the major NYFW hubs across all documented eras.
 
 All presented in a visually striking, narrative-driven format designed to keep the project both engaging and informative.
 
@@ -80,20 +80,22 @@ All presented in a visually striking, narrative-driven format designed to keep t
 - Used the Map Tour feature in ArcGIS to compile all major venues across eras.
 - Input each location with its corresponding address, description, and visual.
 
+#### Conclusion
+- Created a final cumulative map using ArcGIS’s Data Visualization Map feature to synthesize all venue data.
+- Visualized three distinct spatial patterns that emerged from the mapping process:
+  - Midtown as the historical origin of NYFW’s most iconic early venues.
+
+  - Midtown South as the modern NYFW core, reflecting today’s dominant cluster of fashion activity.
+
+  - A downward drift into Brooklyn, showing the recent geographic shift influenced by cultural, economic, and creative factors.
+- Added clear, concise explanations for each pattern using the Text feature, ensuring the map communicates both visual and narrative insight.
+
 ### 🎨 Extra Feature: Design & Visuals
 
 #### Video Collage of Runway Shows
 - Researched and saved relevant runway videos from YouTube.
 - Edited, shortened, and collaged them using CapCut.
 - Inserted the final video into ArcGIS via the Video tool.
-
-#### Conclusion Panel
-- Designed the concluding image in Canva.
-- Uploaded it into ArcGIS using the Image Gallery in Filmstrip format.
-
-#### Photo Collage
-- Used pre-downloaded project images to create a final collage.
-- Inserted them through the ArcGIS Image Gallery in Jigsaw format.
 
 ## 🌟 Final report
 
