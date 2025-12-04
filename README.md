@@ -101,5 +101,5 @@ All presented in a visually striking, narrative-driven format designed to keep t
 
 Story Map Link: https://arcg.is/C99Ta
 
-Presentation Slide Deck: TBA
+Presentation Slide Deck: https://www.canva.com/design/DAG589eXVpA/677nseLYH6sR2hU-xkL3TQ/edit?utm_content=DAG589eXVpA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
